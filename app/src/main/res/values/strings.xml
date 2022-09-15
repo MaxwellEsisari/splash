@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">splash</string>
+    <string name="collect_art_from_the_worlds_leading_artists">Collect art from the worlds leading artists</string>
+    <string name="build_your_personalized_profile_get_market_sel_and_buy_art_with_confidence">build_your_personalized_profile_get_market_sel_and_buy_art_with_confidence</string>
+    <string name="build_your_personalised_profile_get_market_sell_an_dbuy_art_with_confidence">build your personalised profile get market sell and buy art with confidence</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="powered_by_smaxlinktech">powered by smaxlinkTech</string>
+    <string name="hello_there">Hello there!</string>
+    <string name="loginin">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="facebook">facebook</string>
+</resources>
